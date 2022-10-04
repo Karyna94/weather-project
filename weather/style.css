@@ -1,0 +1,79 @@
+body {
+  font-family: "Noto Serif", serif;
+  margin: 50px 0;
+  width: 100;
+}
+.container {
+  border: 1px solid #defcf9;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  background-image: url(https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+.search-city {
+  text-align: right;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+.search-button {
+  background: #ffd31d;
+  border-radius: 10px;
+}
+.btn-primary {
+  background: #ffd31d;
+  border-radius: 10px;
+}
+.date {
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+h1 {
+  font-size: 70px;
+  text-align: center;
+  margin: 30px 0 20px 0;
+}
+
+.temp-image {
+  margin-left: 300px;
+  margin-top: 10px;
+  line-height: 1;
+}
+ul {
+  text-align: left;
+  margin-top: 15px;
+  line-height: 1.2;
+}
+
+li {
+  list-style: none;
+  font-size: 20px;
+}
+
+.temp {
+  font-size: 75px;
+}
+
+.units {
+  position: relative;
+  top: -40px;
+}
+
+.col {
+  background-color: transparent;
+  margin: 0 auto;
+  padding: 30px 10px;
+  margin: 35px 10px;
+  border-radius: 10px;
+  font-size: 28px;
+  border: 2px solid #defcf9;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.weather-icon {
+  font-size: 70px;
+}
