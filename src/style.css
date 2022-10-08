@@ -1,7 +1,5 @@
 body {
   font-family: "Noto Serif", serif;
-  margin: 50px 0;
-  width: 100;
 }
 .container {
   border: 1px solid #defcf9;
@@ -76,4 +74,10 @@ li {
 }
 .weather-icon {
   font-size: 70px;
+}
+p {
+  font-size: 18px;
+  text-align: center;
+  margin: 15px 0;
+  font-family: "Noto Serif", serif;
 }
